@@ -1,6 +1,6 @@
 # main
 
-Currently studing "Master of Science Programme in Computing Science and Engineering" @ UmU.
+Currently studing "Master of Science Programme in Computing Science and Engineering" at Umeå University, Sweden.
 
 
 
